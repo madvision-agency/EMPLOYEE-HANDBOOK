@@ -1,3 +1,5 @@
+# WHAT WE STAND FOR
+
 We believe that having clear shared values is the foundation of any successful team. It is therefore imperative for everyone at MADVISION to adopt the following key values: 
 
 
