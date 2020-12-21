@@ -5,5 +5,5 @@ Getting started at Madvision can be overwhelming. There are a lot of little deta
 
 If you have a specific training schedule or training milestones to complete, that will go into that project as well.
 
-Depending on the situation, you may have to prioritize current projects over the tasks in that project. 
+Depending on the situation & your level of experience, you may have to prioritize current projects over the onboarding tasks.
 
